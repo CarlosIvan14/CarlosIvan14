@@ -5,8 +5,7 @@
 
 ## 📫 Contáctame
 
-* 📧 [carlosivanarmenta8@gmail.com](mailto:carlosivanarmenta8@gmail.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/CarlosIvan14) | [Twitter](https://twitter.com/CarlosIvan14)
+* 📧 [carlosivanarmenta8@gmail.com](mailto:carlosivanarmenta8@gmail.com) 
 * 🌐 [Mi portafolio en GitHub](https://github.com/CarlosIvan14)
 
 ## 💻 Plataformas y Herramientas Favoritas
